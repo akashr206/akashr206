@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hello, I'm Akash R!
 
 Welcome to my GitHub profile! I'm happy to have you here. I'm a passionate developer who loves exploring new technologies and creating innovative solutions to real-world problems.
