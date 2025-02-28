@@ -1,12 +1,10 @@
 # Hello, I'm Akash R!
 
-Welcome to my GitHub profile! I'm happy to have you here. I'm a passionate developer who loves exploring new technologies and creating innovative solutions to real-world problems.
-
-## About Me
+Welcome to my GitHub profile! I'm happy to have you here. I'm a 1st year undergrad pursuing B.tech in AI and ML at UVCE and I am passionate about new technologies.
 
 - **Name:** Akash R
 - **Location:** Bengaluru
-- **Interests:** Web Development, AI/ML.
+- **Interests:** Web Development, AI/ML
 - **Current Focus:** I am learning Next.js and implementing it to build production ready web apps
 - **Contact:** [Whatsapp](wa.me/+916363092986)
 
