@@ -37,8 +37,7 @@ I'm always open to collaborating and discussing new ideas. Feel free to reach ou
 - **Whatsapp** [Contact Me](wa.me/+916363092986)
 
 ## GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akashr206&theme=radical)
+![akashr206's Streak](https://github-readme-streak-stats.herokuapp.com/?user=akashr206&theme=synthwave&hide_border=true)
 
 ## Top Languages
 
