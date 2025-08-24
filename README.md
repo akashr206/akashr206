@@ -6,7 +6,6 @@ Welcome to my GitHub profile! I'm happy to have you here. I'm a 1st year undergr
 - **Location:** Bengaluru
 - **Interests:** Web Development, AI/ML
 - **Current Focus:** I am learning Next.js and implementing it to build production ready web apps
-- **Contact:** [Whatsapp](https://wa.me/+916363092986)
 
 ## Skills
 
@@ -34,7 +33,6 @@ I'm always open to collaborating and discussing new ideas. Feel free to reach ou
 
 - **Email:** [Email Me](mailto:akashr6514@gmail.com)
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/akash-r-55496631b)
-- **Whatsapp** [Contact Me](https://wa.me/+916363092986)
 
 ## GitHub Stats
 ![akashr206's Streak](https://github-readme-streak-stats.herokuapp.com/?user=akashr206&theme=synthwave&hide_border=true)
