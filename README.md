@@ -1,31 +1,27 @@
 # Hello, I'm Akash R!
 
-Welcome to my GitHub profile! I'm happy to have you here. I'm a 1st year undergrad pursuing B.tech in AI and ML at UVCE and I am passionate about new technologies.
+I'm a 2st year undergrad pursuing B.tech in AIML at UVCE and I am passionate about new technologies.
 
 - **Name:** Akash R
-- **Location:** Bengaluru
-- **Interests:** Web Development, AI/ML
-- **Current Focus:** I am learning Next.js and implementing it to build production ready web apps
+- **Interests:** Web Development, Agentic AI
+- **Current Focus:** I'm diving deep into multi-agent autonomous systems
 
 ## Skills
 
-### Languages
+### Programming Languages
+[![Languages](https://skillicons.dev/icons?i=js,python,c,cpp)](https://skillicons.dev)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B&logoColor=00599C)
+### Backend
 
-### Frameworks
+[![Backend](https://skillicons.dev/icons?i=nodejs,next,express,mongodb,firebase)](https://skillicons.dev)
 
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
-![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
-![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=Express)
+### Frontend
 
-### Databases
+[![Frontend](https://skillicons.dev/icons?i=react,vite,tailwindcss,html,css)](https://skillicons.dev)
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+### Others
+
+[![Others](https://skillicons.dev/icons?i=postman,vercel,github)](https://skillicons.dev)
 
 ## Get in Touch
 
