@@ -1,6 +1,6 @@
 # Hello, I'm Akash R!
 
-I'm a 2st year undergrad pursuing B.tech in AIML at UVCE and I am passionate about new technologies.
+I'm a 2nd year undergrad pursuing B.tech in AIML at UVCE and I am passionate about new technologies.
 
 - **Name:** Akash R
 - **Interests:** Web Development, Agentic AI
